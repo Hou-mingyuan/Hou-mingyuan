@@ -85,7 +85,7 @@ docker compose up -d --build && node scripts/smoke-zero-key.mjs http://localhost
 ## 📚 更多
 
 - CSDN 系列草稿：见各仓库 `docs/csdn/` 或项目 README 引流节
-- 生产就绪矩阵与优化汇总：本地 monorepo `ai-portfolio/PRODUCTION-READINESS.md` · `OPTIMIZATION-REPORT.md`
+- 部署与验收以各项目仓库的 `DEPLOYMENT.md`、`SECURITY.md` 和 `docs/DIMENSION-AUDIT.md` 为准；历史 `ai-portfolio` 汇总未随当前工作区分发，不作为启动或验收依赖。
 
 ---
 
